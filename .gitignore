@@ -1,5 +1,7 @@
-/plugins/
-!/plugins/NSSChangeTitlePost/
-/themes/
-!/themes/northsouth/
 /uploads/
+/themes/twentysixteen/
+/themes/twentyseventeen/
+/themes/twentyfifteen/
+!/themes/northsouth/
+/plugins/akismet/
+!/plugins/NSSChangeTitlePost/
