@@ -8,6 +8,7 @@ Descargamos el directorio **northsouth** y pegamos dentro de la carpeta **wp-con
  - Creación de temas [aquí](https://codex.wordpress.org/Theme_Development)
  - Creacion de plugins [aqui](https://developer.wordpress.org/plugins/intro/)
  - Creacion de widget [aqui](https://developer.wordpress.org/themes/functionality/widgets/) 
+ - Wordpress Cheat sheet [aquí](https://drive.google.com/open?id=1sSqSSTh1jF5Yur0vnGKWDjamh7QkU1hF)
  
 ## Tarea
 
